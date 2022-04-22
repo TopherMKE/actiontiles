@@ -14,7 +14,7 @@
 		
 			<div class="slide">
 				<h1 class="slide-number">
-					GeeksforGeeks
+					GeeksforGeeks2
 				</h1>
 			</div>
 			<div class="slide">
